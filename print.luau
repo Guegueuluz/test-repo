@@ -1,3 +1,3 @@
-print("Olá mundo Claude!")
+print("Olá mundo!")
 
 --Comentário de Teste!
